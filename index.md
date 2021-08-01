@@ -1,8 +1,7 @@
-<!DOCTYPE html>
-<img src="" alt="">
 <html>
+    <style = "color: #0366d7">
     <header>
-        <p>GEOG 370 Final Project - Mapping Carboniferous PLant Fossils in the US</p>
+        <p>Mapping Coal Beds and Carboniferous Plant Fossils in the US</p>
     </header>
     <body>
         <p>Simple Image Insert</p>
