@@ -1,9 +1,9 @@
-<html style = "color: #0366d7">
-    <header>
+<html>
+    <header style = "color: #0366d7">
         <p>Mapping Coal Beds and Carboniferous Plant Fossils in the US</p>
     </header>
-    <body>
-        <p>Simple Image Insert</p>
+    <body style = "color: #0366d7">
+        <p>This is a map of all coal beds</p>
         <img src="4326_National.png" alt = "CoalBeds" />
     </body>
 </html>
