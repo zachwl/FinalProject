@@ -12,9 +12,11 @@
         <img src="fossilsperkm.png" alt = "graph2" height = "248" width = "413"/> <br><br>
         <p>From these graphs it can be deduced that the Arkansas, Cherokee, and Forest City Basins, the Appalachian Basin, the Illinois Basin, the Michigan Basin, and the Southwestern Basin must have been formed during the Carboniferous and that the Western Coal Provinces and the Gulf Coast Basin formed during other periods in Earth's history. This is in line with the geological and paleontological consensus surrounding the formation of these coal beds. The map below from the USGS indicates the age of the coal beds in the US with blue symbolizing the late Carboniferous and green, orange, and yellow symbolizing coal beds formed in the Cretaceous and Tertiary Periods. </p> <br><br>
         <img src="CoalBedAge.png" alt = "period" /> <br><br>
-        <p>There remains, however, and interesting outlier. The Ohio Basin, while being formed during the Carboniferous, has far fewer plant fossils per square kilometer compared to the other carboniferous coal beds. </p> <br><br>
+        <p>There remains, however, and interesting outlier. The Michigan Basin, while being formed during the Carboniferous, has far fewer plant fossils per square kilometer compared to the other carboniferous coal beds. </p> <br><br>
         <img src="Michigan_close.png" alt = "michigancoal" /> <br><br>
-        <p>A potential explanation for this may be the lack of coal mines in Michigan. According to the plant fossil dataset, many carboniferous plant fossils are found in mines and quarries. If there are no such mines in Michigan, this may impede the efforts of paleontologists to discover new specimens. </p><br><br>
+        <p>A potential explanation for this may be the lack of coal mines in Michigan. According to the plant fossil dataset, many carboniferous plant fossils are found in coal mines. If there are no such mines in Michigan, this may impede the efforts of paleontologists to discover new specimens. </p><br><br>
         <img src="coalmines.png" alt = "coalmines" /> <br><br>
+        <p>Another question raised by the result of this project is why are there many carboniferous plant fossils in the Western US that are not a part of any coal basin. In the eastern US, by contrast, almost all plant fossils are concentrated in or around a coal bed. The geological reason for this could worth looking into in the future. 
+        <img src="west_close.png" alt = "westcoal" /> <br><br>
     </body>
 </html>
