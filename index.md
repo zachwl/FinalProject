@@ -3,7 +3,7 @@
         <p>Mapping Coal Beds and Carboniferous Plant Fossils in the US</p>
     </header>
     <body style = "color: #0366d7">
-        <p>The goal of this project is to analyze the spatial relationship between the fossilzed remains of plants from the Carboniferous Period and the coal beds that they are attributed to forming</p><br><br>
+        <p>The goal of this project is to analyze the spatial relationship between the fossilzed remains of plants from the Carboniferous Period and the coal beds that they are attributed to forming. To begin, we first have to identify the coal bearing regions of the United States. </p><br><br>
         <img src="4326_National.png" alt = "CoalBeds" /><br><br>
         <p>The map below includes all locations of carboniferous plant fossil collections. The size of each dot corresponds to the number of fossil occurances in that collection. By overlaying the fossil data, we can see a strong correlation between the locations of coal beds and carboniferous plant fossil finds with the exception of the Gulf Coast Basin and the Western Coal Provinces.</p><br><br>
         <img src="4326_NationalFossils.png" alt = "Fossils" /><br><br>
@@ -18,5 +18,10 @@
         <img src="coalmines.png" alt = "coalmines" /> <br><br>
         <p>Another question raised by the result of this project is why are there many carboniferous plant fossils in the Western US that are not a part of any coal basin. In the eastern US, by contrast, almost all plant fossils are concentrated in or around a coal bed. The geological reason for this could worth looking into in the future. </p>
         <img src="west_close.png" alt = "westcoal" /> <br><br>
+        <p>Sources:<br>
+        Fossil Data - The Paleobiology Database (https://paleobiodb.org)<br>
+        Coal Basin Data - US General Services Administration (https://catalog.data.gov/dataset/gis-representation-of-coal-bearing-areas-in-north-central-and-south-america) <br>
+        Coal Mine Data - US Energy Information Administration (https://www.eia.gov/maps/layer_info-m.php)
+        Coal Bed Map - US Geological Survey (https://eerscmap.usgs.gov/ncrds2/)
     </body>
 </html>
