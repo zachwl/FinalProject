@@ -16,7 +16,7 @@
         <img src="Michigan_close.png" alt = "michigancoal" /> <br><br>
         <p>A potential explanation for this may be the lack of coal mines in Michigan. According to the plant fossil dataset, many carboniferous plant fossils are found in coal mines. If there are no such mines in Michigan, this may impede the efforts of paleontologists to discover new specimens. </p><br><br>
         <img src="coalmines.png" alt = "coalmines" /> <br><br>
-        <p>Another question raised by the result of this project is why are there many carboniferous plant fossils in the Western US that are not a part of any coal basin. In the eastern US, by contrast, almost all plant fossils are concentrated in or around a coal bed. The geological reason for this could worth looking into in the future. 
+        <p>Another question raised by the result of this project is why are there many carboniferous plant fossils in the Western US that are not a part of any coal basin. In the eastern US, by contrast, almost all plant fossils are concentrated in or around a coal bed. The geological reason for this could worth looking into in the future. </p>
         <img src="west_close.png" alt = "westcoal" /> <br><br>
     </body>
 </html>
