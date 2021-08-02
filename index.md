@@ -21,7 +21,7 @@
         <p>Sources:<br>
         Fossil Data - The Paleobiology Database (https://paleobiodb.org)<br>
         Coal Basin Data - US General Services Administration (https://catalog.data.gov/dataset/gis-representation-of-coal-bearing-areas-in-north-central-and-south-america) <br>
-        Coal Mine Data - US Energy Information Administration (https://www.eia.gov/maps/layer_info-m.php)
+        Coal Mine Data - US Energy Information Administration (https://www.eia.gov/maps/layer_info-m.php)<br>
         Coal Bed Map - US Geological Survey (https://eerscmap.usgs.gov/ncrds2/)
     </body>
 </html>
